@@ -38,7 +38,6 @@ notifing who has lost and who has won.:
   end
 ```
 ## Screenshot
-game starts:
-![screenshot from 2018-09-25 22-15-48](https://user-images.githubusercontent.com/38970716/46053394-9b10b100-c110-11e8-8ef6-0ec2d5c1c91d.png)
+![screenshot from 2018-10-01 21-23-11](https://user-images.githubusercontent.com/38970716/46324212-5bd6da00-c5c0-11e8-9910-24209a36ecfe.png)
 
-game ends:
+
